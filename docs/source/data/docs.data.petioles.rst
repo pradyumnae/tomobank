@@ -33,8 +33,8 @@ The datasets were acquired at the Advanced Light Source (ALS) beamline 8.3.2 in 
 The dataset includes 14 raw tomographic scans divided into two dynamic dehydration sequences, along with a unified archive of high-quality expert-curated segmentation masks:
 
 *   **Expert-curated Masks**: :download:`annotations.tar.zst <https://zenodo.org/records/19476729/files/annotations.tar.zst>` - Semantic instances for 42 cross-sections (background, cortex, phloem fibers, phloem, hydrated xylem, air-filled pith, water-filled pith, dehydrated xylem, and ignore regions).
-*   **Time Series 1**: 6 sequential scans tracking the early stages of embolism formation (Petioles 22-27).
-*   **Time Series 2**: 8 sequential scans tracking advanced dehydration phases (Petioles 33-40).
+*   **Time Series 1**: 6 sequential scans of a single grapevine petiole undergoing dehydration (Petioles 22-27).
+*   **Time Series 2**: 8 sequential scans of a second grapevine petiole undergoing dehydration (Petioles 33-40).
 
 To load the datasets and perform a basic reconstruction using `tomopy <https://tomopy.readthedocs.io>`_ ::
 
