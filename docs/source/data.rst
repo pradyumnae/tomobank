@@ -16,6 +16,7 @@ perform a basic reconstruction using tomoPy  :cite:`Gursoy:14a` use: ::
    data/docs.data.localarea
    data/docs.data.lorentz
    data/docs.data.nano
+   data/docs.data.petioles
    data/docs.data.phasecontrast   
    data/docs.data.porosity
    data/docs.data.radio   
